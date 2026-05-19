@@ -31,4 +31,4 @@ The analysis answers the following key questions (5W+1H method):
 4. **Insights Generation**: Derived actionable recommendations, highlighting how physical activity acts as a mitigator for BMI and evaluating digestive health risks.
 
 ## Author
-Arief Bagus Nugraha (Batch CODA-RMT-013)
+Arief Bagus Nugraha 
